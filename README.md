@@ -1,4 +1,6 @@
-### Hi there 👋
+[![atosh502's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atosh502&count_private=true&show_icons=true&theme=transparent&title_color=5A8095)](https://github.com/anuraghazra/github-readme-stats)
+
+[![atosh502's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atosh502&layout=compact&&hide=jupyter%20notebook,c&theme=transparent&title_color=5A8095)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **atosh502/atosh502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
